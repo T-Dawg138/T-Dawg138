@@ -2,7 +2,7 @@
 - 👀 I’m interested in pygame and Node.js
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on on a pygame
-- 📫 How to reach me N/A
+- 📫 How to reach me comment on one of my post on [Repl](https://replit.com/@xXToluwaXx?tab=posts)
 
 <!---
 T-Dawg138/T-Dawg138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
